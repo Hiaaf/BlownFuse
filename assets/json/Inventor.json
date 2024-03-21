@@ -1,0 +1,92 @@
+[
+	{
+		"title": "0",
+		"tags": "",
+		"body": "Nossa ! Não é que deu certo ?! \nSeja bem-vindo à vida, robozinho ! \nEu sou seu inventor. É um prazer conhecê-lo !",
+		"position": {
+			"x": -269,
+			"y": -40
+		},
+		"colorID": 0
+	},
+	{
+		"title": "1",
+		"tags": "",
+		"body": "… \nEu tenho quase certeza de que você consegue entender português… \nBem, de toda forma, você tem uma missão ! \nEu te trouxe de volta à vida porque nossa Vila (e o resto do mundo também) está sem energia ! \nNossas fontes de geração de energia estão sob o controle de monstros horríveis… e a sua missão é recuperá-las e trazer de volta nossa eletricidade !",
+		"position": {
+			"x": -37,
+			"y": -45
+		},
+		"colorID": 0
+	},
+	{
+		"title": "2",
+		"tags": "",
+		"body": "Sei que é muita informação de uma vez, mas não se preocupe, você vai pegando o jeito. \nVocê deveria falar com o Ancião da Vila, ele com certeza sabe o melhor caminho para começar. \nEle já está meio gagá e rabugento, mas é uma excelente pessoa.\nFale com ele e inicie sua jornada ! Boa sorte !",
+		"position": {
+			"x": 199,
+			"y": -42
+		},
+		"colorID": 0
+	},
+	{
+		"title": "3",
+		"tags": "",
+		"body": "Meu pai me contava histórias de como ele ia pescar no reservatório da Hidrelétrica quando era criança. \nAntes de ser uma represa, lá era uma vila. \nComo a usina precisa de um reservatório muito grande, a região teve de ser alagada. \nEle costumava cantar uma música que falava algo sobre essa história... como era mesmo ?\n\"Não sei quê, tira gente, põe represa... Adeus Remanso, Casa Nova, Sento Sé...\", algo assim. \nHoje em dia lá está cheio dos monstros. \nMe pergunto se ainda tem ruínas no fundo do lago. \nE se os peixes que sobraram fizeram casas lá hehe.",
+		"position": {
+			"x": -269,
+			"y": 185
+		},
+		"colorID": 0
+	},
+	{
+		"title": "4",
+		"tags": "",
+		"body": "Sabe, apesar de eu ter todas essas geringonças eletrônicas aqui em casa, quase nunca consigo ligar uma… \nSão raras as vezes em que eu acho, nas minhas expedições, algumas baterias que ainda têm energia. \nAinda bem que eu achei uma para ligar você !",
+		"position": {
+			"x": -22,
+			"y": 183
+		},
+		"colorID": 0
+	},
+	{
+		"title": "5",
+		"tags": "",
+		"body": "Espero que você realmente consiga trazer nossa energia de volta ! \nSempre quis saber se eu segui todos aqueles manuais sobre como montar computadores direito. Será que eles vão funcionar um dia ?",
+		"position": {
+			"x": 213,
+			"y": 182
+		},
+		"colorID": 0
+	},
+	{
+		"title": "6",
+		"tags": "",
+		"body": "Tenho muita vontade de ir conhecer as Usinas um dia… \nEu nasci muito depois do Grande Apagão, então tudo que eu sei sobre energia elétrica eu aprendi na escola, e lendo livros e com o Ancião também. \nMas eu nunca… fui de fato nas Usinas. \nTodo mundo já foi e tal mas… sei lá. \nEu sempre gostei de ficar no meu quarto mesmo, mexendo nas minhas engenhocas e, de vez em quando, achando umas pilhas e baterias velhas pra estudar um pouco mais sobre a eletricidade… \nQuem sabe, agora que você está mudando tudo, eu possa tentar a viagem !",
+		"position": {
+			"x": -263,
+			"y": 399
+		},
+		"colorID": 0
+	},
+	{
+		"title": "7",
+		"tags": "",
+		"body": "A energia voltando, que coisa incrível ! \nSerá… será que a Lojista me deixa usar o micro-ondas dela ? Sempre quis ver um funcionando, só ouvi lendas sobre eles !",
+		"position": {
+			"x": -8,
+			"y": 402
+		},
+		"colorID": 0
+	},
+	{
+		"title": "8",
+		"tags": "",
+		"body": "Meus computadores estão ligando ! \nE a maioria sem dar tela azul ! \nQue espetacular, a eletricidade voltou ! \nVou poder jogar meus videogames e ver meus DVDs e ouvir as músicas do meu MP3 e do meu Discman. Quem sabe até ligar meu Tamagotchi !",
+		"position": {
+			"x": 232,
+			"y": 400
+		},
+		"colorID": 0
+	}
+]

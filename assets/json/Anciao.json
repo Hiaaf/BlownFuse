@@ -1,0 +1,162 @@
+[
+	{
+		"title": "0",
+		"tags": "",
+		"body": "Vejam só ! Você deve ser o novo projeto do Inventor. Sempre me pergunto onde ele encontra essas baterias antigas, e como será que elas ainda têm energia… \nBem, é um prazer ! Me chamam de Ancião, aqui na Vila. Como se eu fosse velho desse jeito… \nMas o que você deseja, pequeno robô ?\nHmm, você deseja recuperar nossa energia ? \nSinto muito, mas isso parece impossível. \nTodas as nossas fontes de produção de energia foram tomadas por criaturas malignas, não temos como acessá-las...\nMas... você não parece hesitante. \nEstaria mesmo disposto a enfrentar os perigos das Usinas por esta velha Vila ?\nHá quantos anos não vemos um espírito desses por aqui…",
+		"position": {
+			"x": -566,
+			"y": -77
+		},
+		"colorID": 0
+	},
+	{
+		"title": "1",
+		"tags": "",
+		"body": "Bem, existem quatro formas de produção de energia aqui na região, todas dominadas por aquelas… coisas… \nResgatar todas elas irá exigir tudo de você! \nPara chegar nestas usinas de produção, você deve ver o mapa da região, que fica dentro do QG do ONS, no fim da Vila. \nEu recomendo que você comece pela Usina Nuclear, pois o caminho para as demais usinas é um tanto mais complicado.",
+		"position": {
+			"x": -325,
+			"y": -80
+		},
+		"colorID": 0
+	},
+	{
+		"title": "2",
+		"tags": "",
+		"body": "Cuidado com os perigos que irá encontrar, robozinho, e boa sorte !\nSempre que encontrar algo novo, venha conversar comigo novamente ! \nEstou sempre por aqui na Pracinha, ouvindo o Musico tocar suas melodias e lendo um bom e velho livro !",
+		"position": {
+			"x": -87,
+			"y": -79
+		},
+		"colorID": 0
+	},
+	{
+		"title": "3",
+		"tags": "",
+		"body": "Ah, o Músico?\nÉ, ele é meio caladão mesmo. \nMas está sempre tocando essa melodia que eu adoro, então me contento com seu silêncio. Ele é muito talentoso!",
+		"position": {
+			"x": 136,
+			"y": -80
+		},
+		"colorID": 0
+	},
+	{
+		"title": "4",
+		"tags": "",
+		"body": "Ah, O que é o ONS? Bem, ainda bem que perguntou ! \nEu sou a melhor pessoa para responder, trabalhei lá minha vida toda ! \nBem… quando ainda tínhamos energia, claro... \nO ONS era o Operador Nacional do Sistema Elétrico, uma instituição que coordenava e controlava as operações do Sistema Elétrico Brasileiro. Basicamente, éramos nós que garatíamos que energia produzida nas usinas chegasse bonitinha na casa das pessoas. \nEram bons tempos…",
+		"position": {
+			"x": -563,
+			"y": 133
+		},
+		"colorID": 0
+	},
+	{
+		"title": "5",
+		"tags": "",
+		"body": "Já fui em muitas caminhadas na floresta perto da Usina Nuclear. \nVocê viu o reator? Impressionante, né? Ele usa o calor da radioatividade do Urânio para evaporar a água dos tanques e, com o vapor pressurizado dela, fazer girar uma grande turbina que gera a energia. \nSe bem utilizada, é uma excelente forma de gerar energia! O problema é só o lixo radioativo que fica depois ha ha…",
+		"position": {
+			"x": -324,
+			"y": 139
+		},
+		"colorID": 0
+	},
+	{
+		"title": "6",
+		"tags": "",
+		"body": "Tome cuidado quando for à Usina Hidrelétrica ! Só posso imaginar os perigos que encontrará por lá. \r\nOs monstros devem ter acabado com o lugar, uma dó ! \r\nNo auge de sua glória, a Hidrelétrica era responsável por quase 60% da produção da nossa eletricidade. As águas do reservatório passam pelas turbinas que geram energia pelo movimento da água. \r\nLiberte-a e a Hidrelétrica voltará a produzir energia !",
+		"position": {
+			"x": -80,
+			"y": 136
+		},
+		"colorID": 0
+	},
+	{
+		"title": "7",
+		"tags": "",
+		"body": "Na época em que eu ainda trabalhava, antes de… bem… do desastre, eu me lembro de trabalhar na operação dessas Usinas. \r\nBons tempos! Todo o sistema elétrico, funcionando coordenado e perfeito entre as várias usinas geradoras, entregando eletricidade para os lares e comércios de milhões de brasileiros… \r\nSerá que você realmente vai conseguir trazer tudo isso de volta?",
+		"position": {
+			"x": 145,
+			"y": 142
+		},
+		"colorID": 0
+	},
+	{
+		"title": "8",
+		"tags": "",
+		"body": "Você já viu o tamanho da Termelétrica? É imensa! E precisa ser. \nNela, o combustível, tanto fóssil como orgânico é queimado para esquentar a água que, quando vaporizada, gira a turbina que gera a energia. E ela precisa de muito combustível, viu? \nMas, antes do Apagão, ela era extremamente importante para o Sistema Elétrico. Era responsável por quase 28% da produção de eletricidade, essencial para o Brasil! \nPrecisamos dela de volta, Robozinho!",
+		"position": {
+			"x": -573,
+			"y": 349
+		},
+		"colorID": 0
+	},
+	{
+		"title": "9",
+		"tags": "",
+		"body": "Sabe, eu guardo com carinho minhas memórias dos tempos normais, em que eu trabalhava no ONS e o mundo ainda tinha energia elétrica. \nSempre foi minha paixão trabalhar com isso. \nA eletricidade me fascina muito ! Sinto por essa geração que nasceu depois de tudo isso e não pôde presenciar o mundo antes do Apagão, com todas as suas luzes e clarões… \nNão que todas as pessoas pudessem desfrutar do mundo elétrico antes da tragédia…",
+		"position": {
+			"x": -328,
+			"y": 351
+		},
+		"colorID": 0
+	},
+	{
+		"title": "10",
+		"tags": "",
+		"body": "Sabia que quase 83% das fontes de geração de energia elétrica no Brasil eram renováveis, na época antes do Grande Apagão ? \nIsso era um ótimo índice para os padrões mundiais !",
+		"position": {
+			"x": -91,
+			"y": 355
+		},
+		"colorID": 0
+	},
+	{
+		"title": "11",
+		"tags": "",
+		"body": "Mal posso acreditar ! Nossa Vila com eletricidade mais uma vez ! \nSó posso agradecê-lo imensamente, robozinho. \nSem você, talvez ficássemos sem eletricidade para sempre !",
+		"position": {
+			"x": 144,
+			"y": 359
+		},
+		"colorID": 0
+	},
+	{
+		"title": "12",
+		"tags": "",
+		"body": "Agora que a energia está de volta, vou voltar a trabalhar no ONS, para mantermos por muitos anos o fruto do trabalho duro que você teve.",
+		"position": {
+			"x": -582,
+			"y": 568
+		},
+		"colorID": 0
+	},
+	{
+		"title": "13",
+		"tags": "",
+		"body": "Estive conversando com o Inventor e com a Fazendeira e, se tudo der certo, vamos remontar alguns dos aerogeradores e painéis solares antigos e começar a refazer os campos eólicos e solares de antigamente !\nVamos começar em pequena escala, é claro, mas, com o tempo, quem sabe não podemos voltar a ter essas fontes geradoras de energia? \nNa época em que elas funcionavam, elas produziam quase 13% da energia do Brasil. Era muita coisa, e nosso país tem um potencial imenso para essas matrizes energéticas !",
+		"position": {
+			"x": -327,
+			"y": 575
+		},
+		"colorID": 0
+	},
+	{
+		"title": "14",
+		"tags": "",
+		"body": "É incrível o que você conseguiu fazer, Robozinho. Obrigado!",
+		"position": {
+			"x": -74,
+			"y": 590
+		},
+		"colorID": 0
+	},
+	{
+		"title": "15",
+		"tags": "",
+		"body": "...\n",
+		"position": {
+			"x": 208,
+			"y": 590
+		},
+		"colorID": 0
+	}
+]

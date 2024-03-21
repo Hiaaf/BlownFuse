@@ -1,0 +1,92 @@
+[
+	{
+		"title": "0",
+		"tags": "",
+		"body": "Ora, vejam só ! O Inventor nunca para de me surpreender, ha ha ! \nFoi ele quem fez você, não foi ? \nBem, eu sou a Fazendeira, prazer em conhecê-lo ! \nNão vejo razão para você querer comprar os suprimentos de fazenda da minha loja, mas será um prazer conversar com você sempre que quiser !",
+		"position": {
+			"x": 144,
+			"y": 92
+		},
+		"colorID": 0
+	},
+	{
+		"title": "1",
+		"tags": "",
+		"body": "Já ouvi muitas histórias sobre a Usina Nuclear ! \nA radiação lá é perigosa. Mas quem sabe não podemos usar outros robozinhos como você para reparar o lugar e descartar corretamente o lixo radioativo ? \nEsse lixo vem da reação nuclear que gera a energia e, se não for descartado corretamente, pode contaminar os rios, os lagos, o solo…",
+		"position": {
+			"x": 364,
+			"y": 103
+		},
+		"colorID": 0
+	},
+	{
+		"title": "2",
+		"tags": "",
+		"body": "O Ancião te contou sobre o trabalho dele no ONS ? \nDevia ser muito legal trabalhar com o sistema elétrico. Apesar de ele ser muito desenvolvido e tal, eles tinham muitos problemas, na época. \nO Ancião adora contar o caso de como uma vez eles tiveram que levar eletricidade para uma comunidade ribeirinha e os moradores ficaram encantados com a eletricidade ! \nEstranho pensar que, mesmo em uma época tão desenvolvida e tecnológica, muitas pessoas não tinham acesso à eletricidade…",
+		"position": {
+			"x": 598,
+			"y": 97
+		},
+		"colorID": 0
+	},
+	{
+		"title": "3",
+		"tags": "",
+		"body": "Você foi à Hidrelétrica, não foi ? Eu acho lá impressionante. \nÉ uma forma de geração de eletricidade das mais limpas: é energia renovável e muito pouco poluente. \nA construção das estruturas é, com certeza, a parte onde mais se altera o ambiente. \nMas, tirando isso, as hidrelétricas são muito sustentáveis ! E como no Brasil nós temos muitos rios e corpos d’água, elas são as mais utilizadas na produção de energia. \nHavia uma, em Itaipu, que era imensa, a segunda maior do mundo todo ! Será que ela ainda existe ?...",
+		"position": {
+			"x": 133,
+			"y": 308
+		},
+		"colorID": 0
+	},
+	{
+		"title": "4",
+		"tags": "",
+		"body": "Sabia que minha mãe trabalhou na construção dos antigos Campos Éolicos e Solares ? \nHoje em dia, eles não existem mais, mas foram muito importantes antes do Apagão. \nFoi ela quem primeiro teve a ideia de construí-los. \nEla sempre trabalhou muito duro para melhorar a nossa relação com o meio ambiente, tinha até uma ONG focada em sustentabilidade ! \nSempre quis continuar o trabalho dela, mesmo que em menor escala…",
+		"position": {
+			"x": 367,
+			"y": 314
+		},
+		"colorID": 0
+	},
+	{
+		"title": "5",
+		"tags": "",
+		"body": "Agora que você recuperou também a Termelétrica, nossa energia voltou completamente, Robozinho ! Você é o cara !",
+		"position": {
+			"x": 609,
+			"y": 312
+		},
+		"colorID": 0
+	},
+	{
+		"title": "6",
+		"tags": "",
+		"body": "Com toda essa energia sobrando, acho que vou finalmente tentar terminar de consertar a antiga lata-velha do Ancião. Você já reparou nela ? \nEla fica “estacionada” ao lado da Loja. \nCom eletricidade, minhas ferramentas elétricas vão voltar a funcionar, e vai dar pra carregar a bateria do carro. \nQuem sabe nós até fazemos um upgrade pra um motor elétrico ? \nBem mais sustentável, o Ancião ia adorar haha !",
+		"position": {
+			"x": 125,
+			"y": 523
+		},
+		"colorID": 0
+	},
+	{
+		"title": "7",
+		"tags": "",
+		"body": "Me peguei pensando muito na minha mãe, robozinho, com a eletricidade finalmente de volta.\nEla sempre me falava sobre como a sustentabilidade é importante para este mundo... \nSem uma boa relação com o meio ambiente, nós prejudicamos nossas próprias vidas.\nAquecimento global, extinção de espécies, fome e sede nos países menos desenvolvidos… \nIsso tudo vem porque a humanidade não teve responsabilidade com suas ações…",
+		"position": {
+			"x": 373,
+			"y": 527
+		},
+		"colorID": 0
+	},
+	{
+		"title": "8",
+		"tags": "",
+		"body": "Que coisa linda a Vila toda iluminada de novo !",
+		"position": {
+			"x": 606,
+			"y": 526
+		},
+		"colorID": 0
+	}
+]

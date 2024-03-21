@@ -1,0 +1,62 @@
+[
+	{
+		"title": "0",
+		"tags": "",
+		"body": "Olá ! Você é o novo projeto do Inventor, certo ? Finalmente ficou pronto então ! \nEle não parava de falar sobre você haha. \nEm que posso ajudá-lo ? Interessado em comprar alguma coisa ? \nTenho quase certeza de que a maioria do meu catálogo não vai te agradar muito, já que ele é mais voltado para compradores… humanos… \nMas você parece uma excelente parceria de conversa. Apesar de você não ser exatamente o tipo falante… \nEntão sempre que quiser bater um papo, eu estarei aqui.",
+		"position": {
+			"x": 199,
+			"y": 169
+		},
+		"colorID": 0
+	},
+	{
+		"title": "1",
+		"tags": "",
+		"body": "Já de volta? Vejo que tem andado ocupado. \nCombatendo muitos monstros, imagino.",
+		"position": {
+			"x": 421,
+			"y": 170
+		},
+		"colorID": 0
+	},
+	{
+		"title": "2",
+		"tags": "",
+		"body": "Já reparou nas torres de eletricidade que ficam por aí ? Você talvez já tenha passado por uma. \nElas costumavam ser usadas para transmitir a energia gerada pelas Usinas mas, depois do Grande Apagão, caíram em desuso, obviamente. \nElas são bem chiques e têm até cabos de para-raios para melhorar o desempenho.\nE são as únicas coisas que eu lembro das aulas do Ancião sobre o sistema elétrico e o ONS. Aquele velho sabe muito dessas coisas !",
+		"position": {
+			"x": 643,
+			"y": 171
+		},
+		"colorID": 0
+	},
+	{
+		"title": "3",
+		"tags": "",
+		"body": "Com toda essa história de você recuperando nossa energia (aliás, muitíssimo obrigada!) eu fui trocar uma ideia com o Ancião de novo. \nFiquei com saudade das aulas de história dele e pedi pra ele me contar os velhos casos mais uma vez. \nVocê está resgatando o “primeiro passo” da energia, sabia né ? \nSão as formas de geração de eletricidade. \nSe estivéssemos antes do Apagão, ela seria distribuída pelas torres e cabos até as residências, comércios e indústrias. \nUma verdadeira maravilha da tecnologia !",
+		"position": {
+			"x": 200,
+			"y": 380
+		},
+		"colorID": 0
+	},
+	{
+		"title": "4",
+		"tags": "",
+		"body": "Olha, vou te contar, robozinho, você é demais ! Me encanta ver as lâmpadas acendendo ! \nComo alguém que teve raros contatos com eletricidade funcionando pra valer, é de impressionar ver essas luzes tão bonitas. \nE estou conseguindo usar a velha máquina de lavar do meu avô, acredita ? Lavar roupa na mão, nunca mais !",
+		"position": {
+			"x": 420,
+			"y": 385
+		},
+		"colorID": 0
+	},
+	{
+		"title": "5",
+		"tags": "",
+		"body": "Agora, eu posso esquentar minha comida no micro-ondas, \r\nler de noite perto da cama sem quase colocar fogo na casa, \r\njogar o antigo Super Game-Boy da minha irmã (que nunca nem chegou a ser usado, eu acho)... \r\nVocê não tem ideia do quanto a vida fica mais fácil com toda essa eletricidade !",
+		"position": {
+			"x": 647,
+			"y": 385
+		},
+		"colorID": 0
+	}
+]
